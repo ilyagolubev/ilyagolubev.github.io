@@ -749,10 +749,11 @@ a {
     height: 70px;
     background-repeat: no-repeat;
     background-size: cover;
+    background-color: #00A4E5;
   }
 
   .about__item-img {
-    width: 100%;
+    display: none;
   }
 
   .about__item+div {
